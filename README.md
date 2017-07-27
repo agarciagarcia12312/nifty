@@ -1,1 +1,1 @@
-# nifty
+# niftyAuto
